@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Slide Demonstration"
 author: "Scott D. Weitzenhoffer"
 date: "January 31, 2018"
 output: ioslides_presentation
@@ -9,17 +9,18 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## Slide 1
+Default content
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+- Bullet 1  
+- Bullet 2  
+- Bullet 3  
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+## Slide 2
 
-## Slide with Bullets
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Bullet 1  
+- Bullet 2  
+- Bullet 3  
 
 ## Slide with R Output
 
